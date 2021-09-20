@@ -1,0 +1,55 @@
+{
+    "datos_personales": {
+        "nombre": "Rodrigo",
+        "apellido": "Tonutti",
+        "direccion": {
+            "calle": "Cordoba 343",
+            "ciudad": "Formosa",
+            "codigo_postal": "3600"
+        },
+        "correo": "rstonutti@gmail.com",
+        "numero_telefono": [3704047163],
+        "genero":0,
+        "religion": "Católica",
+        "nacionalidad": {
+            "pais": "Argentina",
+            "provincia": "Formosa",
+            "ciudad": "Formosa"
+        }
+    },
+    "tutor": [{
+        "nombre": "Gloria",
+        "apellido": "Bobadilla",
+        "direccion": {
+            "calle": "Cordoba 343",
+            "ciudad": "Formosa",
+            "codigo_postal": "3600"
+        },
+        "correo": "grbobadilla@gmail.com",
+        "numero_telefono": [3704040506],
+        "genero":1
+    }],
+    "informacion_academica": [{
+        "institucion": "Industrial",
+        "desde": "2003",
+        "hasta": "2009"
+    }],
+    "experiencia_laboral": [{
+        "lugar": "Empresa Constructora",
+        "desde": "2018",
+        "hasta": "2021"
+    }],
+    "conocimientos": [
+        "AutoCAD", "SketchUP", "Lumion", "Word", "Excel", "HTML", "CSS", "Javascript", "PHP"
+    ],
+    "redes": [
+        "Facebook","Instagram","Twitter","GitHub"
+    ],
+    "hobbies": [
+        "Futbol", "Videojuegos", "Música", "Películas"
+    ],
+    "alergias": [
+        "Ninguna"
+    ],
+    "regimen_alimentario": "Normal"
+}
